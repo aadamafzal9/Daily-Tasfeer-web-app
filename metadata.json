@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tafsir",
+  "description": "Daily curated Qur'anic verses with verified Arabic text, translations, and authentic Ibn Kathir reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
